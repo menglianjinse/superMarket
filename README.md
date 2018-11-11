@@ -1,2 +1,2 @@
 # superMarket
-superMarket manage system
+superMarket manage   system
